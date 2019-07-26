@@ -41,6 +41,7 @@
   <component name="ProjectId" id="1OUeWtywSHp4bz4JFw8C8wwFzmN" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -71,7 +72,7 @@
       <option name="presentableId" value="Default" />
       <updated>1564036637687</updated>
       <workItem from="1564036639462" duration="1901000" />
-      <workItem from="1564099824940" duration="10765000" />
+      <workItem from="1564099824940" duration="11157000" />
     </task>
     <servers />
   </component>
